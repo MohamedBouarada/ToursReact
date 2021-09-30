@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ToursReact/static/css/main.6360aafa.chunk.css",
-    "main.js": "/ToursReact/static/js/main.907517bd.chunk.js",
-    "main.js.map": "/ToursReact/static/js/main.907517bd.chunk.js.map",
+    "main.js": "/ToursReact/static/js/main.18f948fe.chunk.js",
+    "main.js.map": "/ToursReact/static/js/main.18f948fe.chunk.js.map",
     "runtime-main.js": "/ToursReact/static/js/runtime-main.f9c0e0b9.js",
     "runtime-main.js.map": "/ToursReact/static/js/runtime-main.f9c0e0b9.js.map",
     "static/js/2.865aedf2.chunk.js": "/ToursReact/static/js/2.865aedf2.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f9c0e0b9.js",
     "static/js/2.865aedf2.chunk.js",
     "static/css/main.6360aafa.chunk.css",
-    "static/js/main.907517bd.chunk.js"
+    "static/js/main.18f948fe.chunk.js"
   ]
 }
